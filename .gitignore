@@ -4,6 +4,7 @@
 .DS_Store
 .settings
 .springBeans
+.idea
 bin
 build.sh
 buildSrc
