@@ -6,6 +6,7 @@
 .springBeans
 bin
 build.sh
+buildSrc
 integration-repo
 ivy-cache
 jxl.log
@@ -24,3 +25,7 @@ spring-build/lib/docbook
 /build
 /spring-*
 !/spring-framework-reference
+
+*.ipr
+*.iws
+*.iml
